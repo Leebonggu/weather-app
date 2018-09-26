@@ -1,1 +1,2 @@
-this is weather app
+this is weather app made react-native
+This turorial is made by Nomad-coder
